@@ -1,0 +1,19 @@
+{
+  "name": "simplfyjs",
+  "version": "1.0.0",
+  "description": "A utility package of JavaScript",
+  "main": "mathematics.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "simplifyjs"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Omayer Hasan Marif",
+  "license": "MIT"
+}
