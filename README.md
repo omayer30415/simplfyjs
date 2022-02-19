@@ -1,5 +1,10 @@
 # simplifyFrontend
-A repository for some common but **very necessary** functions of javascript and some templates of _Html_ and _CSS_ to quickly use them 
-without spending more time thinking how it can be done.
+## Description
+- some templates of _Html_, _CSS_ and _JavaScript_. (Anyone who thinks that a file/block of code can be used multiple times, he/she can add them to this repository).
+- Beginner-friendly reopsitory. (Beginners can add their code which can be a template for other projects).
+- Maintained by a **real world human** not a **BOT**.
+- Pushing several commits to this repository will increase confidence.
 
-NOTE: This repository is under construction but anyone can contribute in it.
+
+
+
