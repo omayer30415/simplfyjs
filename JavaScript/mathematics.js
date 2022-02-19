@@ -1,0 +1,1 @@
+// Add mathematical functions in javascript 
